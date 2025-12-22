@@ -1,60 +1,69 @@
-<h2 align="left">Hi ! My name is Akayshuu and I'm a Fullstack developer, from France !</h2>
+<h1 align="center">Hi!! I'm Akayshuu</h1>
+<p align="center">Fullstack Developer from 🇫🇷 France</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats-two-roan.vercel.app/api?username=Akayashuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-two-roan.vercel.app/api/top-langs?username=Akayashuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-two-roan.vercel.app/api?username=Akayashuu&show_icons=true&count_private=true&theme=dracula" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-two-roan.vercel.app/api/top-langs?username=Akayashuu&layout=compact&langs_count=5&theme=dracula" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://wakatime.com/@8d53e784-ede4-4fdf-8baf-a04db56afc32">
-    <img src="https://wakatime.com/badge/user/8d53e784-ede4-4fdf-8baf-a04db56afc32.svg" alt="wakatime badge" />
+    <img src="https://wakatime.com/badge/user/8d53e784-ede4-4fdf-8baf-a04db56afc32.svg" />
   </a>
 </p>
 
-###
+---
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/38018746?s=400&u=07bb0e6fa644a1171ea9edac7902c2f9faef5f83&v=4" />
+<table align="center">
+  <tr>
+    <td width="160" align="center">
+      <img src="https://avatars.githubusercontent.com/u/38018746?s=400" width="140" style="border-radius: 50%;" />
+    </td>
+    <td>
+      <strong>About me</strong><br/>
+      Fullstack developer focused on modern backends, clean APIs and scalable systems.<br/>
+      Enjoys working with TypeScript, Rust, Docker and real-world architectures.
+    </td>
+  </tr>
+</table>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" alt="svelte logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="30" alt="symfony logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo" />
-</div>
+### 🛠 Tech Stack
 
-###
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32"/>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="32"/>
+  <img src="https://skillicons.dev/icons?i=rust" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="32"/>
+</p>
 
-<div align="left">
-  <a href="mailto:sauvageleo1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+---
+
+### 📫 Contact
+
+<p align="center">
+  <a href="mailto:sauvageleo1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/léo-sauvage-834703261/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/léo-sauvage-834703261/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/akayashuu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  <a href="https://discord.com/users/akayashuu">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-</div>
-
-###
-
-<br clear="both">
+</p>
