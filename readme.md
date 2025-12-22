@@ -6,10 +6,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-two-roan.vercel.app/api?username=Akayashuu&show_icons=true&theme=dracula" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats-two-roan.vercel.app/api/top-langs?username=Akayashuu&layout=compact&langs_count=5&theme=dracula" />
+      <img src="https://github-readme-stats-two-roan.vercel.app/api?username=Akayashuu&show_icons=true&include_all_commits=true&theme=dracula" />
     </td>
   </tr>
 </table>
