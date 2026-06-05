@@ -49,12 +49,12 @@ akayashuu@matrix:~$ ls ./projects
   <tr>
     <td width="33%" align="center" valign="top">
       <a href="https://vskstudio.fr">
-        <img src="https://api.microlink.io/?url=https://vskstudio.fr&amp;screenshot=true&amp;embed=screenshot.url" width="100%" />
+        <img src="assets/projects/vskstudio.png" width="100%" />
       </a>
       <br/><br/>
       <b>🏢&nbsp; VSK Studio</b> &nbsp;<img src="https://img.shields.io/badge/STUDIO-00FF41?style=flat-square&labelColor=000000" valign="middle" />
       <br/><br/>
-      <sub><i>The studio — where every<br/>project is built &amp; shipped.</i></sub>
+      <sub><i>Web dev studio — custom sites<br/>&amp; apps for SaaS &amp; e-commerce.</i></sub>
       <br/><br/>
       <a href="https://vskstudio.fr">
         <img src="https://img.shields.io/badge/OPEN_↗-vskstudio.fr-000000?style=for-the-badge&labelColor=00FF41&color=0D1117" />
@@ -62,12 +62,12 @@ akayashuu@matrix:~$ ls ./projects
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://ender.gg">
-        <img src="https://api.microlink.io/?url=https://ender.gg&amp;screenshot=true&amp;embed=screenshot.url" width="100%" />
+        <img src="assets/projects/ender.png" width="100%" />
       </a>
       <br/><br/>
-      <b>🎮&nbsp; Ender</b> &nbsp;<img src="https://img.shields.io/badge/LIVE-7DF9FF?style=flat-square&labelColor=000000" valign="middle" />
+      <b>🎮&nbsp; EnderBot</b> &nbsp;<img src="https://img.shields.io/badge/LIVE-7DF9FF?style=flat-square&labelColor=000000" valign="middle" />
       <br/><br/>
-      <sub><i>Live product — built<br/>&amp; maintained in-house.</i></sub>
+      <sub><i>A full RPG — war, cards &amp;<br/>crafting, right inside Discord.</i></sub>
       <br/><br/>
       <a href="https://ender.gg">
         <img src="https://img.shields.io/badge/OPEN_↗-ender.gg-000000?style=for-the-badge&labelColor=7DF9FF&color=0D1117" />
@@ -75,12 +75,12 @@ akayashuu@matrix:~$ ls ./projects
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://whiteashes.xyz">
-        <img src="https://api.microlink.io/?url=https://whiteashes.xyz&amp;screenshot=true&amp;embed=screenshot.url" width="100%" />
+        <img src="assets/projects/whiteashes.png" width="100%" />
       </a>
       <br/><br/>
-      <b>🔥&nbsp; WhiteAshes</b> &nbsp;<img src="https://img.shields.io/badge/PROJECT-7DF9FF?style=flat-square&labelColor=000000" valign="middle" />
+      <b>🔥&nbsp; WhiteAshes</b> &nbsp;<img src="https://img.shields.io/badge/GAME-7DF9FF?style=flat-square&labelColor=000000" valign="middle" />
       <br/><br/>
-      <sub><i>Another build<br/>from the lab.</i></sub>
+      <sub><i>Dark-fantasy RPG — face the<br/>darkness, forge your legend.</i></sub>
       <br/><br/>
       <a href="https://whiteashes.xyz">
         <img src="https://img.shields.io/badge/OPEN_↗-whiteashes.xyz-000000?style=for-the-badge&labelColor=7DF9FF&color=0D1117" />
