@@ -47,38 +47,57 @@ akayashuu@matrix:~$ ls ./projects
 
 <table border="0">
   <tr>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/%E2%97%8F-STUDIO-00FF41?style=flat-square&labelColor=000000" /><br/><br/>
-      <h3>🏢&nbsp; VSK&nbsp;Studio</h3>
-      <sub><i>The studio — where every<br/>project is built &amp; shipped.</i></sub>
+    <td width="50%" align="center" valign="top">
+      <a href="https://vskstudio.fr">
+        <img src="https://image.thum.io/get/width/640/crop/400/noanimate/https://vskstudio.fr" width="100%" />
+      </a>
+      <br/><br/>
+      <h3>🏢&nbsp; VSK Studio &nbsp;<img src="https://img.shields.io/badge/STUDIO-00FF41?style=flat-square&labelColor=000000" valign="middle" /></h3>
+      <sub><i>The studio — where every project is built &amp; shipped.</i></sub>
       <br/><br/>
       <a href="https://vskstudio.fr">
-        <img src="https://img.shields.io/badge/_OPEN_↗-vskstudio.fr-000000?style=for-the-badge&labelColor=00FF41&color=000000" />
+        <img src="https://img.shields.io/badge/OPEN_↗-vskstudio.fr-000000?style=for-the-badge&labelColor=00FF41&color=0D1117" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://ender.gg">
+        <img src="https://image.thum.io/get/width/640/crop/400/noanimate/https://ender.gg" width="100%" />
       </a>
       <br/><br/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/%E2%97%8F-LIVE-7DF9FF?style=flat-square&labelColor=000000" /><br/><br/>
-      <h3>🎮&nbsp; Ender</h3>
-      <sub><i>Live product — built<br/>&amp; maintained in-house.</i></sub>
+      <h3>🎮&nbsp; Ender &nbsp;<img src="https://img.shields.io/badge/LIVE-7DF9FF?style=flat-square&labelColor=000000" valign="middle" /></h3>
+      <sub><i>Live product — built &amp; maintained in-house.</i></sub>
       <br/><br/>
       <a href="https://ender.gg">
-        <img src="https://img.shields.io/badge/_OPEN_↗-ender.gg-000000?style=for-the-badge&labelColor=7DF9FF&color=000000" />
+        <img src="https://img.shields.io/badge/OPEN_↗-ender.gg-000000?style=for-the-badge&labelColor=7DF9FF&color=0D1117" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br/>
+      <a href="https://whiteashes.xyz">
+        <img src="https://image.thum.io/get/width/640/crop/400/noanimate/https://whiteashes.xyz" width="100%" />
       </a>
       <br/><br/>
+      <h3>🔥&nbsp; WhiteAshes &nbsp;<img src="https://img.shields.io/badge/PROJECT-7DF9FF?style=flat-square&labelColor=000000" valign="middle" /></h3>
+      <sub><i>Another build from the lab.</i></sub>
+      <br/><br/>
+      <a href="https://whiteashes.xyz">
+        <img src="https://img.shields.io/badge/OPEN_↗-whiteashes.xyz-000000?style=for-the-badge&labelColor=7DF9FF&color=0D1117" />
+      </a>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/%E2%97%8F-PERSONAL-00FF41?style=flat-square&labelColor=000000" /><br/><br/>
-      <h3>🧬&nbsp; Portfolio</h3>
-      <sub><i>My personal site —<br/>the Matrix one.</i></sub>
+      <a href="https://sauvagel.xyz">
+        <img src="https://image.thum.io/get/width/640/crop/400/noanimate/https://sauvagel.xyz" width="100%" />
+      </a>
+      <br/><br/>
+      <h3>🧬&nbsp; Portfolio &nbsp;<img src="https://img.shields.io/badge/PERSONAL-00FF41?style=flat-square&labelColor=000000" valign="middle" /></h3>
+      <sub><i>My personal site — the Matrix one.</i></sub>
       <br/><br/>
       <a href="https://sauvagel.xyz">
-        <img src="https://img.shields.io/badge/_OPEN_↗-sauvagel.xyz-000000?style=for-the-badge&labelColor=00FF41&color=000000" />
+        <img src="https://img.shields.io/badge/OPEN_↗-sauvagel.xyz-000000?style=for-the-badge&labelColor=00FF41&color=0D1117" />
       </a>
-      <br/><br/>
     </td>
   </tr>
 </table>
