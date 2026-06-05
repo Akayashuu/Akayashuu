@@ -45,28 +45,40 @@ identity:
 akayashuu@matrix:~$ ls ./projects
 ```
 
-<table>
+<table border="0">
   <tr>
     <td width="33%" align="center" valign="top">
-      <h3>🏢 VSK Studio</h3>
-      <sub>The studio. Where everything ships from.</sub><br/><br/>
+      <br/>
+      <img src="https://img.shields.io/badge/%E2%97%8F-STUDIO-00FF41?style=flat-square&labelColor=000000" /><br/><br/>
+      <h3>🏢&nbsp; VSK&nbsp;Studio</h3>
+      <sub><i>The studio — where every<br/>project is built &amp; shipped.</i></sub>
+      <br/><br/>
       <a href="https://vskstudio.fr">
-        <img src="https://img.shields.io/badge/vskstudio.fr-00FF41?style=for-the-badge&logo=rocket&logoColor=black&labelColor=000000" />
+        <img src="https://img.shields.io/badge/_OPEN_↗-vskstudio.fr-000000?style=for-the-badge&labelColor=00FF41&color=000000" />
       </a>
+      <br/><br/>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>🎮 Ender</h3>
-      <sub>Live project — built &amp; maintained.</sub><br/><br/>
+      <br/>
+      <img src="https://img.shields.io/badge/%E2%97%8F-LIVE-7DF9FF?style=flat-square&labelColor=000000" /><br/><br/>
+      <h3>🎮&nbsp; Ender</h3>
+      <sub><i>Live product — built<br/>&amp; maintained in-house.</i></sub>
+      <br/><br/>
       <a href="https://ender.gg">
-        <img src="https://img.shields.io/badge/ender.gg-7DF9FF?style=for-the-badge&logo=gamejolt&logoColor=black&labelColor=000000" />
+        <img src="https://img.shields.io/badge/_OPEN_↗-ender.gg-000000?style=for-the-badge&labelColor=7DF9FF&color=000000" />
       </a>
+      <br/><br/>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>🧬 Portfolio</h3>
-      <sub>Personal site — the Matrix one.</sub><br/><br/>
+      <br/>
+      <img src="https://img.shields.io/badge/%E2%97%8F-PERSONAL-00FF41?style=flat-square&labelColor=000000" /><br/><br/>
+      <h3>🧬&nbsp; Portfolio</h3>
+      <sub><i>My personal site —<br/>the Matrix one.</i></sub>
+      <br/><br/>
       <a href="https://sauvagel.xyz">
-        <img src="https://img.shields.io/badge/sauvagel.xyz-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=000000" />
+        <img src="https://img.shields.io/badge/_OPEN_↗-sauvagel.xyz-000000?style=for-the-badge&labelColor=00FF41&color=000000" />
       </a>
+      <br/><br/>
     </td>
   </tr>
 </table>
