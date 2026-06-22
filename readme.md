@@ -12,9 +12,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=flat-square&labelColor=000000" />
-<img src="https://img.shields.io/badge/ROLE-FOUNDER%20%2F%20CEO-7DF9FF?style=flat-square&labelColor=000000" />
-<img src="https://komarev.com/ghpvc/?username=Akayashuu&style=flat-square&color=00FF41&label=VISITORS" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-0D1117?style=flat-square&labelColor=00FF41" />
+<img src="https://img.shields.io/badge/ROLE-FOUNDER%20%2F%20CEO-0D1117?style=flat-square&labelColor=7DF9FF" />
+<img src="https://komarev.com/ghpvc/?username=Akayashuu&style=flat-square&color=0D1117&label=VISITORS&labelColor=00FF41" />
 
 </div>
 
