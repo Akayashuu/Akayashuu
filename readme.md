@@ -47,93 +47,61 @@ akayashuu@matrix:~$ ls ./projects
 
 <table border="0">
   <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://vskstudio.fr">
-        <img src="assets/projects/vskstudio.png" width="100%" />
-      </a>
+    <td width="33%" align="center" valign="top">
+      <a href="https://vskstudio.fr"><img src="assets/projects/vskstudio.png" width="100%" /></a>
       <br/><br/>
-      <b>🏢&nbsp; VSK Studio</b> &nbsp;<img src="https://img.shields.io/badge/STUDIO-00FF41?style=flat-square&labelColor=000000" valign="middle" />
+      <b>🏢&nbsp; VSK Studio</b> <img src="https://img.shields.io/badge/STUDIO-00FF41?style=flat-square&labelColor=000000" valign="middle" />
+      <br/>
+      <sub><i>Web dev studio — sites &amp; apps for SaaS &amp; e-commerce.</i></sub>
       <br/><br/>
-      <sub><i>Web dev studio — custom sites &amp; apps for SaaS &amp; e-commerce.</i></sub>
-      <br/><br/>
-      <a href="https://vskstudio.fr">
-        <img src="https://img.shields.io/badge/OPEN_↗-vskstudio.fr-000000?style=for-the-badge&labelColor=00FF41&color=0D1117" />
-      </a>
-      <br/><br/>
+      <a href="https://vskstudio.fr"><img src="https://img.shields.io/badge/↗-vskstudio.fr-000000?style=for-the-badge&labelColor=00FF41&color=0D1117" /></a>
     </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://ender.gg">
-        <img src="assets/projects/ender.png" width="100%" />
-      </a>
+    <td width="33%" align="center" valign="top">
+      <a href="https://taktlytics.com"><img src="https://opengraph.githubassets.com/1/vskstudio/takt-core" width="100%" /></a>
       <br/><br/>
-      <b>🎮&nbsp; EnderBot</b> &nbsp;<img src="https://img.shields.io/badge/LIVE-7DF9FF?style=flat-square&labelColor=000000" valign="middle" />
+      <b>📊&nbsp; Takt</b> <img src="https://img.shields.io/badge/OSS-00FF41?style=flat-square&labelColor=000000" valign="middle" />
+      <br/>
+      <sub><i>Privacy-friendly, self-hosted web analytics.</i></sub>
       <br/><br/>
-      <sub><i>A full RPG — war, cards &amp; crafting, right inside Discord.</i></sub>
-      <br/><br/>
-      <a href="https://ender.gg">
-        <img src="https://img.shields.io/badge/OPEN_↗-ender.gg-000000?style=for-the-badge&labelColor=7DF9FF&color=0D1117" />
-      </a>
-      <br/><br/>
+      <a href="https://taktlytics.com"><img src="https://img.shields.io/badge/↗-taktlytics.com-000000?style=for-the-badge&labelColor=00FF41&color=0D1117" /></a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://whiteashes.xyz">
-        <img src="assets/projects/whiteashes.png" width="100%" />
-      </a>
+    <td width="33%" align="center" valign="top">
+      <a href="https://naht.dev"><img src="https://opengraph.githubassets.com/1/vskstudio/naht" width="100%" /></a>
       <br/><br/>
-      <b>🔥&nbsp; WhiteAshes</b> &nbsp;<img src="https://img.shields.io/badge/GAME-7DF9FF?style=flat-square&labelColor=000000" valign="middle" />
+      <b>🧵&nbsp; Naht</b> <img src="https://img.shields.io/badge/RUST-7DF9FF?style=flat-square&labelColor=000000" valign="middle" />
+      <br/>
+      <sub><i>Conflict-safe FS sync for Roblox Studio.</i></sub>
       <br/><br/>
-      <sub><i>Dark-fantasy RPG — face the darkness, forge your legend.</i></sub>
-      <br/><br/>
-      <a href="https://whiteashes.xyz">
-        <img src="https://img.shields.io/badge/OPEN_↗-whiteashes.xyz-000000?style=for-the-badge&labelColor=7DF9FF&color=0D1117" />
-      </a>
-      <br/><br/>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://ganyu.fr">
-        <img src="assets/projects/ganyu.png" width="100%" />
-      </a>
-      <br/><br/>
-      <b>🤖&nbsp; Ganyu</b> &nbsp;<img src="https://img.shields.io/badge/LIVE-7DF9FF?style=flat-square&labelColor=000000" valign="middle" />
-      <br/><br/>
-      <sub><i>Discord bot — economy, levels, gacha &amp; moderation, all-in-one.</i></sub>
-      <br/><br/>
-      <a href="https://ganyu.fr">
-        <img src="https://img.shields.io/badge/OPEN_↗-ganyu.fr-000000?style=for-the-badge&labelColor=7DF9FF&color=0D1117" />
-      </a>
-      <br/><br/>
+      <a href="https://naht.dev"><img src="https://img.shields.io/badge/↗-naht.dev-000000?style=for-the-badge&labelColor=7DF9FF&color=0D1117" /></a>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/orgs/vskstudio/repositories?q=takt">
-        <img src="https://opengraph.githubassets.com/1/vskstudio/takt-core" width="100%" />
-      </a>
+    <td width="33%" align="center" valign="top">
+      <a href="https://ender.gg"><img src="assets/projects/ender.png" width="100%" /></a>
       <br/><br/>
-      <b>📊&nbsp; Takt</b> &nbsp;<img src="https://img.shields.io/badge/OSS-00FF41?style=flat-square&labelColor=000000" valign="middle" />
+      <b>🎮&nbsp; EnderBot</b> <img src="https://img.shields.io/badge/LIVE-7DF9FF?style=flat-square&labelColor=000000" valign="middle" />
+      <br/>
+      <sub><i>A full RPG — war, cards &amp; crafting, in Discord.</i></sub>
       <br/><br/>
-      <sub><i>Privacy-friendly, self-hosted web analytics — our Plausible alternative.</i></sub>
-      <br/><br/>
-      <a href="https://github.com/orgs/vskstudio/repositories?q=takt">
-        <img src="https://img.shields.io/badge/OPEN_↗-open--source_SDKs-000000?style=for-the-badge&labelColor=00FF41&color=0D1117" />
-      </a>
-      <br/><br/>
+      <a href="https://ender.gg"><img src="https://img.shields.io/badge/↗-ender.gg-000000?style=for-the-badge&labelColor=7DF9FF&color=0D1117" /></a>
     </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/vskstudio/naht">
-        <img src="https://opengraph.githubassets.com/1/vskstudio/naht" width="100%" />
-      </a>
+    <td width="33%" align="center" valign="top">
+      <a href="https://whiteashes.xyz"><img src="assets/projects/whiteashes.png" width="100%" /></a>
       <br/><br/>
-      <b>🧵&nbsp; Naht</b> &nbsp;<img src="https://img.shields.io/badge/RUST-7DF9FF?style=flat-square&labelColor=000000" valign="middle" />
+      <b>🔥&nbsp; WhiteAshes</b> <img src="https://img.shields.io/badge/GAME-7DF9FF?style=flat-square&labelColor=000000" valign="middle" />
+      <br/>
+      <sub><i>Dark-fantasy RPG — forge your legend.</i></sub>
       <br/><br/>
-      <sub><i>Bidirectional, conflict-safe filesystem sync for Roblox Studio.</i></sub>
+      <a href="https://whiteashes.xyz"><img src="https://img.shields.io/badge/↗-whiteashes.xyz-000000?style=for-the-badge&labelColor=7DF9FF&color=0D1117" /></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://ganyu.fr"><img src="assets/projects/ganyu.png" width="100%" /></a>
       <br/><br/>
-      <a href="https://github.com/vskstudio/naht">
-        <img src="https://img.shields.io/badge/OPEN_↗-github.com%2Fnaht-000000?style=for-the-badge&labelColor=7DF9FF&color=0D1117" />
-      </a>
+      <b>🤖&nbsp; Ganyu</b> <img src="https://img.shields.io/badge/LIVE-7DF9FF?style=flat-square&labelColor=000000" valign="middle" />
+      <br/>
+      <sub><i>Discord bot — economy, levels, gacha &amp; mod.</i></sub>
       <br/><br/>
+      <a href="https://ganyu.fr"><img src="https://img.shields.io/badge/↗-ganyu.fr-000000?style=for-the-badge&labelColor=7DF9FF&color=0D1117" /></a>
     </td>
   </tr>
 </table>
