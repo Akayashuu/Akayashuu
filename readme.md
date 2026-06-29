@@ -57,7 +57,7 @@ akayashuu@matrix:~$ ls ./projects
       <a href="https://vskstudio.fr"><img src="https://img.shields.io/badge/↗-vskstudio.fr-000000?style=for-the-badge&labelColor=00FF41&color=0D1117" /></a>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://taktlytics.com"><img src="https://image.thum.io/get/width/640/crop/420/https://taktlytics.com" width="100%" /></a>
+      <a href="https://taktlytics.com"><img src="assets/projects/takt.png" width="100%" /></a>
       <br/><br/>
       <b>📊&nbsp; Takt</b> <img src="https://img.shields.io/badge/OSS-00FF41?style=flat-square&labelColor=000000" valign="middle" />
       <br/>
@@ -66,7 +66,7 @@ akayashuu@matrix:~$ ls ./projects
       <a href="https://taktlytics.com"><img src="https://img.shields.io/badge/↗-taktlytics.com-000000?style=for-the-badge&labelColor=00FF41&color=0D1117" /></a>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://naht.dev"><img src="https://image.thum.io/get/width/640/crop/420/https://naht.dev" width="100%" /></a>
+      <a href="https://naht.dev"><img src="assets/projects/naht.png" width="100%" /></a>
       <br/><br/>
       <b>🧵&nbsp; Naht</b> <img src="https://img.shields.io/badge/RUST-7DF9FF?style=flat-square&labelColor=000000" valign="middle" />
       <br/>
