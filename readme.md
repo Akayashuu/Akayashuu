@@ -106,6 +106,36 @@ akayashuu@matrix:~$ ls ./projects
       <br/><br/>
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/orgs/vskstudio/repositories?q=takt">
+        <img src="https://opengraph.githubassets.com/1/vskstudio/takt-core" width="100%" />
+      </a>
+      <br/><br/>
+      <b>📊&nbsp; Takt</b> &nbsp;<img src="https://img.shields.io/badge/OSS-00FF41?style=flat-square&labelColor=000000" valign="middle" />
+      <br/><br/>
+      <sub><i>Privacy-friendly, self-hosted web analytics — our Plausible alternative.</i></sub>
+      <br/><br/>
+      <a href="https://github.com/orgs/vskstudio/repositories?q=takt">
+        <img src="https://img.shields.io/badge/OPEN_↗-open--source_SDKs-000000?style=for-the-badge&labelColor=00FF41&color=0D1117" />
+      </a>
+      <br/><br/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/vskstudio/naht">
+        <img src="https://opengraph.githubassets.com/1/vskstudio/naht" width="100%" />
+      </a>
+      <br/><br/>
+      <b>🧵&nbsp; Naht</b> &nbsp;<img src="https://img.shields.io/badge/RUST-7DF9FF?style=flat-square&labelColor=000000" valign="middle" />
+      <br/><br/>
+      <sub><i>Bidirectional, conflict-safe filesystem sync for Roblox Studio.</i></sub>
+      <br/><br/>
+      <a href="https://github.com/vskstudio/naht">
+        <img src="https://img.shields.io/badge/OPEN_↗-github.com%2Fnaht-000000?style=for-the-badge&labelColor=7DF9FF&color=0D1117" />
+      </a>
+      <br/><br/>
+    </td>
+  </tr>
 </table>
 
 </div>
@@ -122,6 +152,7 @@ akayashuu@matrix:~$ cat ./stack.txt
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" title="TypeScript"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/nodedotjs/00FF41" height="36" title="Node.js"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=rust" height="36" title="Rust"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="36" title="Go"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="36" title="Svelte"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="36" title="Symfony"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" title="PHP"/>
