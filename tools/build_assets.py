@@ -2,6 +2,7 @@ import base64
 import io
 import json
 import math
+import os
 import re
 import urllib.request
 from pathlib import Path
@@ -184,29 +185,56 @@ EDGE = 8
 TOP = 4
 GUT = 16
 CW = W - 2 * EDGE
-STATS_URL = (
-    "https://github-readme-stats-two-roan.vercel.app/api"
-    "?username=Akayashuu&include_all_commits=true&number_format=long&disable_animations=true"
-)
+GITHUB_LOGIN = "Akayashuu"
+GITHUB_API = "https://api.github.com"
 STATS_CACHE = SRC / "stats.json"
+STATS_QUERY = """
+query($login: String!) {
+  user(login: $login) {
+    pullRequests { totalCount }
+    issues { totalCount }
+    repositoriesContributedTo(contributionTypes: [COMMIT, ISSUE, PULL_REQUEST, REPOSITORY]) { totalCount }
+  }
+}
+"""
+
+
+def github_request(token, path, payload=None):
+    request = urllib.request.Request(
+        f"{GITHUB_API}{path}",
+        data=None if payload is None else json.dumps(payload).encode(),
+        headers={
+            "Authorization": f"Bearer {token}",
+            "Accept": "application/vnd.github+json",
+            "User-Agent": "akayashuu-readme",
+        },
+    )
+    with urllib.request.urlopen(request, timeout=30) as response:
+        return json.load(response)
+
+
+def fetch_stats(token):
+    commits = github_request(token, f"/search/commits?q=author:{GITHUB_LOGIN}&per_page=1")["total_count"]
+    result = github_request(token, "/graphql", {"query": STATS_QUERY, "variables": {"login": GITHUB_LOGIN}})
+    if result.get("errors"):
+        raise RuntimeError(f"GraphQL errors: {result['errors']}")
+    user = result["data"]["user"]
+    return {
+        "commits": commits,
+        "prs": user["pullRequests"]["totalCount"],
+        "issues": user["issues"]["totalCount"],
+        "contributed": user["repositoriesContributedTo"]["totalCount"],
+    }
 
 
 def load_stats():
-    try:
-        request = urllib.request.Request(STATS_URL, headers={"User-Agent": "akayashuu-readme"})
-        desc = re.search(r"<desc[^>]*>([^<]+)</desc>", urllib.request.urlopen(request, timeout=30).read().decode())
-        fields = {
-            "commits": r"Total Commits\s*:\s*([\d,]+)",
-            "prs": r"Total PRs\s*:\s*([\d,]+)",
-            "issues": r"Total Issues\s*:\s*([\d,]+)",
-            "contributed": r"Contributed to \(last year\)\s*:\s*([\d,]+)",
-        }
-        stats = {key: int(re.search(pattern, desc.group(1)).group(1).replace(",", "")) for key, pattern in fields.items()}
-        STATS_CACHE.write_text(json.dumps(stats, indent=2) + "\n")
-        return stats
-    except Exception as error:
-        print(f"live stats unavailable ({error}), using cache")
+    token = os.environ.get("STATS_TOKEN") or os.environ.get("GITHUB_TOKEN")
+    if not token:
+        print("no STATS_TOKEN or GITHUB_TOKEN, using cached stats")
         return json.loads(STATS_CACHE.read_text())
+    stats = fetch_stats(token)
+    STATS_CACHE.write_text(json.dumps(stats, indent=2) + "\n")
+    return stats
 
 
 ICONS = {

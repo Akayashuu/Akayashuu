@@ -18,6 +18,8 @@ jobs:
           python-version: "3.15"
       - run: pip install fonttools brotli
       - run: python tools/build_assets.py
+        env:
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
       - run: |
           if git diff --quiet; then exit 0; fi
           git config user.name "github-actions[bot]"
